@@ -1,0 +1,6 @@
+name: Vape
+version: 420
+author: LaxWasHere
+main: net.poweredbyscience.Vape
+commands:
+  vape:
